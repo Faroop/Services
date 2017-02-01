@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Product(s)</title>
+  <meta charset="utf-8"/>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+  <link href='https://fonts.googleapis.com/css?family=Roboto:300,400,700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+  <header class="container">
+    <div class="row">
+      <h1 class="col-sm-4">Product(s) & Services:</h1>
+      <nav class="col-sm-8 text-right">
+        <p>Applied Science</p>
+        <p>Engineering Physics</p>
+        <p>Technology Innovation</p>
+        <p>Applied Mathematics</p>
+      </nav>
+    </div>
+  </header>
+  <section class="jumbotron">
+    <div class="container">
+      <div class="row text-center">
+        <h2>Main Business Model</h2>
+        <h3>see below</h3>
+        
+      </div>
+    </div>
+  </section>
+  <section class="container">
+    <div class="row">
+      <figure class="col-sm-6">
+        <P>Engineerig</p>
+        <ul>
+        
+        <li>Enviormental and Waste Managemet</li>
+        
+        <li>Chemical Engineering</li>
+        
+        <li>Electrical Engineering</li>
+        
+        <li>Industrial Construction</li>
+        
+        <li>Aeronautical Engineering</li>
+        
+        <li>Mechinical Engineering</li>
+        
+        <li>Other(s)...</li>
+        
+        </ul>
+    	</figure>
+    	<figure class="col-sm-6">
+        <p>Applied Science</p>
+        
+        <ul>
+        <li>Analytical Chemistry</li>
+        
+        <li>Biophysics & ecostudies</li>
+        
+        <li>Mathematical physics</li>
+        
+        <li>Forensic science</li>
+        
+        <li>Scientific modelling</li>
+        
+        <li>Network science</li>
+        
+        <li>more...</li>
+        
+        </ul>
+        
+        </figure>
+        
+  	</div>
+    <div class="row">
+      <figure class="col-sm-6">
+        <p>Technology</p>
+        
+        <ul>
+        
+        <li>Specilized Instrumentaion Engineering</li>
+        
+        <li>3D modeling and Software</li>
+        
+        <li>Software engineerig and Information Technology         </li>
+        
+        <li>Research Optimization</li>
+        
+        </ul>
+      </figure>
+      <figure class="col-sm-6">
+        <p>Applied Mathametics</p>
+        
+        <ul>
+        
+        <li>Analysis & Implementation</li>
+        
+        <li>Engineering</li>
+        
+        <li>Programming</li>
+        
+        </ul>
+        
+      </figure>
+    </div>
+</section>
+<footer class="container"><div class="row">
+    <p class="col-sm-4"> &copy; 2017 Mudassir F. Sharif </p>
+    <ul class="col-sm-8">
+     <li class="col-sm-1"><img src="https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/twitter.svg"/></li>
+      <li class="col-sm-1"><img src="https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/facebook.svg"/></li>
+      <li class="col-sm-1"><img src="https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/instagram.svg"/></li>
+      <li class="col-sm-1"><img src="https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/medium.svg"/></li>
+  </ul>
+  </div></footer>
+ 
+</body>
+</html>
